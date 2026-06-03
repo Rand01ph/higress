@@ -1,0 +1,20 @@
+plugins/wasm-go/extensions/inone-auth/main.go
+  s_81403d432bc799::t_a7283b2675ac52 376
+  s_81403d432bc799::t_f9680ee2d30048 375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3b3c3b14e1e36c529a9c8bf5c7fb2f9afcfbd9c6",
+  "prompts": {},
+  "sessions": {
+    "s_81403d432bc799": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e7249106-871b-4a59-abfa-5e2ba9cdc4f4",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "陈俊丽 <chenjunli@intra.nsfocus.com>"
+    }
+  }
+}
