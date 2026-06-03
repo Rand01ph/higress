@@ -1,0 +1,9 @@
+plugins/wasm-go/extensions/inone-auth/main.go
+  ai_agent 378-385
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0bc36ca56b2746687b429e6ac922a0b4c8ea479e",
+  "prompts": {}
+}
