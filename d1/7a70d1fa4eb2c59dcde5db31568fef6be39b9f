@@ -1,0 +1,19 @@
+docs/superpowers/specs/2026-06-16-vllm-provider-anthropic-openai-protocols-design.md
+  s_3b54c3494209fa::t_39de3067baa26d 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "d17a70d1fa4eb2c59dcde5db31568fef6be39b9f",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
