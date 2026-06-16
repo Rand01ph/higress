@@ -1,0 +1,19 @@
+docs/superpowers/plans/2026-06-16-vllm-provider-protocols.md
+  s_3b54c3494209fa::t_2deb9a50d4f6dd 1-225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "d5e52f48006f55846493a5b7d75a3107f48ce9e5",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
