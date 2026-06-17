@@ -1,0 +1,11 @@
+plugins/wasm-go/extensions/ai-proxy/main_test.go
+  s_3b54c3494209fa::t_1f3c8b91ddc6cc 52
+plugins/wasm-go/extensions/ai-proxy/main.go
+  s_3b54c3494209fa::t_3ad4c91d32a610 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "8772eb7297c45589de6ce251560545712f1d543f",
+  "prompts": {}
+}
