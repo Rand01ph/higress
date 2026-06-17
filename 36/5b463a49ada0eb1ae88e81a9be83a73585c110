@@ -1,0 +1,32 @@
+plugins/wasm-go/extensions/ai-proxy/provider/vllm_test.go
+  s_3b54c3494209fa::t_6aa77e73f461bb 1-13,24-42,45-58
+  s_3b54c3494209fa::t_b4796721ecdde8 14-18,22-23
+  s_3b54c3494209fa::t_280d234f5ff882 19
+  s_3b54c3494209fa::t_bca77286d7c540 43-44
+plugins/wasm-go/extensions/ai-proxy/provider/provider.go
+  s_3b54c3494209fa::t_ca8dcd655c7628 80
+  s_3b54c3494209fa::t_b475b037127f43 119-121
+  s_3b54c3494209fa::t_ff2bb24d659aba 1454-1455
+plugins/wasm-go/extensions/ai-proxy/provider/vllm.go
+  s_3b54c3494209fa::t_54c85f17f8df37 39-40
+  s_3b54c3494209fa::t_ffbe304e48fe65 163,164-166
+  s_3b54c3494209fa::t_4f8fa28e9b9687 168-179,167
+  s_3b54c3494209fa::t_cf573d3c01492a 41-43
+  s_3b54c3494209fa::t_b4796721ecdde8 44-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "365b463a49ada0eb1ae88e81a9be83a73585c110",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}

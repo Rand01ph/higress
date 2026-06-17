@@ -1,0 +1,23 @@
+plugins/wasm-go/extensions/ai-proxy/provider/vllm_test.go
+  s_3b54c3494209fa::t_6aa77e73f461bb 1-13,23-55
+plugins/wasm-go/extensions/ai-proxy/provider/vllm.go
+  s_3b54c3494209fa::t_54c85f17f8df37 39-40
+  s_3b54c3494209fa::t_ffbe304e48fe65 162
+  s_3b54c3494209fa::t_4f8fa28e9b9687 163-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "60d6de3da6b8b87c635d32c09c56a3f3f898b9b6",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
