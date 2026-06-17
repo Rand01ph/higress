@@ -1,0 +1,21 @@
+plugins/wasm-go/extensions/ai-proxy/main_test.go
+  s_3b54c3494209fa::t_1f3c8b91ddc6cc 57
+plugins/wasm-go/extensions/ai-proxy/main.go
+  s_3b54c3494209fa::t_3ad4c91d32a610 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "0204e498ce5eed28a68c63f8fbaccf679bea52cf",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
