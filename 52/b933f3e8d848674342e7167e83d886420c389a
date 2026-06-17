@@ -1,0 +1,30 @@
+plugins/wasm-go/extensions/ai-proxy/main.go
+  s_3b54c3494209fa::t_5d936b1a52fcbb 72
+plugins/wasm-go/extensions/ai-proxy/provider/provider.go
+  s_3b54c3494209fa::t_232da70ed30aff 1483-1484
+  s_3b54c3494209fa::t_7c43960c29c927 80
+  s_3b54c3494209fa::t_6c6949e6b1a7e8 119-121
+plugins/wasm-go/extensions/ai-proxy/main_test.go
+  s_3b54c3494209fa::t_cc9465a75cd9bd 57
+plugins/wasm-go/extensions/ai-proxy/provider/vllm.go
+  s_3b54c3494209fa::t_0e501b7d61b58d 164-179
+  s_3b54c3494209fa::t_c818c2d598cedb 39-45
+plugins/wasm-go/extensions/ai-proxy/provider/vllm_test.go
+  s_3b54c3494209fa::t_7f17b2737e22ee 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "52b933f3e8d848674342e7167e83d886420c389a",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
