@@ -1,0 +1,24 @@
+plugins/wasm-go/extensions/inone-auth/auth/token_test.go
+  s_35ce4a3634d452::t_9d4fab2372f4e1 1-38
+plugins/wasm-go/extensions/inone-auth/auth/token.go
+  s_35ce4a3634d452::t_75dac4ec3b2a59 1-2,7-8,12,31
+  s_35ce4a3634d452::t_3fe82765b9de62 3-6,9-11,13-30
+plugins/wasm-go/extensions/inone-auth/main.go
+  s_35ce4a3634d452::t_08b5a311892614 195-196,198-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2376d0e1889d4293aed9d731552c0a60fb30196d",
+  "prompts": {},
+  "sessions": {
+    "s_35ce4a3634d452": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "87aba2b7-a3dd-4b06-86b4-f007de0ba51f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
