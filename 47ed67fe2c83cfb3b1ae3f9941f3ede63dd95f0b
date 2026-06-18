@@ -1,0 +1,19 @@
+plugins/wasm-go/extensions/inone-token-ratelimit/config/config.go
+  s_b007672beb8abd::t_e1748ae6304db6 449
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "47ed67fe2c83cfb3b1ae3f9941f3ede63dd95f0b",
+  "prompts": {},
+  "sessions": {
+    "s_b007672beb8abd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "766f07c2-22d7-4ee4-a9e0-a30639b9b9dc",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "陈俊丽 <chenjunli@intra.nsfocus.com>"
+    }
+  }
+}
