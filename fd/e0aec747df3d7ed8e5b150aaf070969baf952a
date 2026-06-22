@@ -1,0 +1,27 @@
+plugins/wasm-go/extensions/ai-anthropic-system-fold/go.mod
+  s_fd31ddc209762b::t_f2b97bdbc05754 1-19
+plugins/wasm-go/extensions/ai-anthropic-system-fold/main.go
+  s_fd31ddc209762b::t_0a1b51baf64234 1-4,9,13-47,57-87,91-156
+  s_fd31ddc209762b::t_15664e1928ed98 5-8,10-12
+  s_fd31ddc209762b::t_c37ef31eb4bc90 88
+  s_fd31ddc209762b::t_b43129f90ea66b 48-56
+  s_fd31ddc209762b::t_a649ef071cbae3 89-90
+plugins/wasm-go/extensions/ai-anthropic-system-fold/README.md
+  s_fd31ddc209762b::t_8c2fece585589d 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fde0aec747df3d7ed8e5b150aaf070969baf952a",
+  "prompts": {},
+  "sessions": {
+    "s_fd31ddc209762b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd9c0d86-d9e6-4bbe-99e0-3191b394dd7b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
