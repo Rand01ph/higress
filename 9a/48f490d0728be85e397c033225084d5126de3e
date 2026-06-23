@@ -1,0 +1,34 @@
+plugins/wasm-go/extensions/ai-anthropic-system-fold/main_test.go
+  s_fd31ddc209762b::t_88853c851ce01d 1-114
+plugins/wasm-go/extensions/ai-anthropic-system-fold/go.mod
+  s_fd31ddc209762b::t_f2b97bdbc05754 1-27
+plugins/wasm-go/extensions/ai-anthropic-system-fold/README.md
+  s_fd31ddc209762b::t_8bb2aadf101d38 1-5,7,9-10,12-13,16-18,21-24,26,28-59,62-73
+  s_fd31ddc209762b::t_8c2fece585589d 6,8,11,14-15,19-20,25,27,60-61
+plugins/wasm-go/extensions/ai-anthropic-system-fold/design/design.md
+  s_fd31ddc209762b::t_e81f704ebf623f 1-84
+plugins/wasm-go/extensions/ai-anthropic-system-fold/README_EN.md
+  s_fd31ddc209762b::t_10c303324a8c4b 1-83
+plugins/wasm-go/extensions/ai-anthropic-system-fold/main.go
+  s_fd31ddc209762b::t_0a1b51baf64234 1-4,9,13-47,57-87,91-156
+  s_fd31ddc209762b::t_b43129f90ea66b 48-56
+  s_fd31ddc209762b::t_15664e1928ed98 5-8,10-12
+  s_fd31ddc209762b::t_c37ef31eb4bc90 88
+  s_fd31ddc209762b::t_a649ef071cbae3 89-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "9a48f490d0728be85e397c033225084d5126de3e",
+  "prompts": {},
+  "sessions": {
+    "s_fd31ddc209762b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd9c0d86-d9e6-4bbe-99e0-3191b394dd7b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
